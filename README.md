@@ -18,6 +18,9 @@ El script se debe ejecutar de la siguiente manera:
 python laliga.py
 ```
 
+El resultado se exportará en un fichero CSV.
+
+
 ## English
 Extract and merge data of La Liga from different websites and Twitter.
 
@@ -35,3 +38,5 @@ To run the script:
 ```
 python laliga.py
 ```
+
+The result is exported to a CSV file.
