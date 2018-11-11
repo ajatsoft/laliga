@@ -7,7 +7,7 @@ def devuelveClasificacion():
 
     ## parametros de la cabecera
     headers = {
-    "X-Auth-Token": "12f38ea0c0324913b9c2915ca026813d",
+    "X-Auth-Token": "",
     "Accept": "application/json"
     }
 
