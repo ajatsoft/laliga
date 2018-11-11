@@ -3,10 +3,10 @@ from datetime import date, datetime, timedelta
 
 def devuelveRelevancia(hashtags):
     ## nuestros credenciales de la aplicacion twitter
-    consumer_key = 'qzZXl40VpxpX06Wa287DPPGvH'
-    consumer_secret = 'iuvS1IFFMKcbrT5DJL3xEHpukAYD8ya0vkVZeHzufbpJ64gq7C'
-    access_token = '615191892-jJlQiMMTXz0Pm2aAF9bkQL7f9IIjrSUaX920m3Cx'
-    access_token_secret = 'MwbyRZdSL7gyplZCFSUIz9ZuD8SlMlAB7JQHsm8XcwnTd'
+    consumer_key = ''
+    consumer_secret = ''
+    access_token = ''
+    access_token_secret = ''
 
     ## creamos los objetos para consultar twitter
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
